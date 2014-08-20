@@ -1,4 +1,0 @@
-dsw2proyecto
-============
-
-rysdesign
